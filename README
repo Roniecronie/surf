@@ -8,6 +8,11 @@ In order to build surf you need GTK+ and Webkit/GTK+ header files.
 
 In order to use the functionality of the url-bar, also install dmenu[0].
 
+Patches added
+------------
+- Quit hotkey
+- Homepage
+
 Installation
 ------------
 Edit config.mk to match your local setup (surf is installed into
